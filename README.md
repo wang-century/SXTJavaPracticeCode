@@ -32,10 +32,22 @@
         > Practice24    递归：计算n的阶乘
     - part2     02_面向对象基础
         > lesson063     一个典型类的定义和使用
+        > lesson070     静态初始化块的使用
+        > lesson074     继承的实现和instanceOf的使用
+        > lesson075     重写父类方法
+        > lesson076     重写toString方法
+        > lesson077     重写equals方法
+        > lesson078     super关键字的使用
+        > lesson079     封装的使用：访问控制符
+        > lesson081     多态的使用
+        > lesson084     数组的使用：声明、存储、读取、foreach循环
+
 </pre>
 
 <h1>版本说明</h1>
 <pre>
 - v1.0.0
     > 完成Part1 01_Java入门阶段代码
+- v1.1.0
+    > 完成Part2 02_面向对象基础
 </pre>
