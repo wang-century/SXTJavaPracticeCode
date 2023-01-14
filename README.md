@@ -57,10 +57,19 @@
         > lesson122     File类的使用(文件、目录)
         > lesson123     File类递归打印目录树
         > lesson124     枚举
+    - part6     06_异常机制
+        > lesson130     自定义异常
+    - part7     07_容器和数据结构
+        > lesson133     容器泛型
+        > lesson134     测试Collection接口中的方法
+        > lesson135     ArrayList操作多个List、并集和交集
+        > lesson138     自定义实现ArrayList
 </pre>
 
 <h1>版本说明</h1>
 <pre>
+- v1.4.1
+    > 完成容器泛型、测试Collection接口中的方法、ArrayList操作多个List、并集和交集
 - v1.4.0
     > 完成part5 05_常用类
 - v1.3.1
