@@ -46,11 +46,23 @@
         > lesson102     抽象类、抽象方法
         > lesson103     接口、多继承、面向接口编程
         > lesson111     冒泡排序
-        > lesson112     二分法查找     
+        > lesson112     二分法查找  
+    - part5     05_常用类
+        > lesson113     包装类
+        > lesson115     StringBuilder可变字符序列
+        > lesson116     StringBuilder和stringBuffer用法、字符串拼接的推荐方式
+        > lesson117     时间类Date、DateFormat、Calendar
+        > lesson120     可视化日历程序
+        > lesson121     Math类常用方法
+        > lesson122     File类的使用(文件、目录)
+        > lesson123     File类递归打印目录树
+        > lesson124     枚举
 </pre>
 
 <h1>版本说明</h1>
 <pre>
+- v1.4.0
+    > 完成part5 05_常用类
 - v1.3.1
     > 完成part4 04_面向对象深入和数组深入
 - v1.3.0
