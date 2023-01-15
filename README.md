@@ -64,10 +64,14 @@
         > lesson134     测试Collection接口中的方法
         > lesson135     ArrayList操作多个List、并集和交集
         > lesson138     自定义实现ArrayList
+        > lesson142     自定义实现LinkedList
 </pre>
 
 <h1>版本说明</h1>
 <pre>
+- v1.4.2
+    > 完成：lesson138
+    > 未完成：lesson142
 - v1.4.1
     > 完成容器泛型、测试Collection接口中的方法、ArrayList操作多个List、并集和交集
 - v1.4.0
