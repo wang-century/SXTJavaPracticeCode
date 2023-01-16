@@ -65,10 +65,24 @@
         > lesson135     ArrayList操作多个List、并集和交集
         > lesson138     自定义实现ArrayList
         > lesson142     自定义实现LinkedList
+        > lesson147     Vector向量（线程安全、效率低）
+        > lesson148     HashMap的使用
+        > lesson152     自定义实现HashMap
+        > lesson157     TreeMap的使用
+        > lesson158     HashSet的使用
+        > lesson160     TreeSet的使用
+        > lesson161     迭代器的使用(遍历容器元素)
+        > lesson163     Collections工具类
+        > lesson164     使用容器存储表格数据
+        > lesson165     javabean和list结合存储表格数据
 </pre>
 
 <h1>版本说明</h1>
 <pre>
+- v1.4.4
+    > 完成part7 07_容器和数据结构
+- v1.4.3
+    > 完成：lesson142
 - v1.4.2
     > 完成：lesson138
     > 未完成：lesson142
