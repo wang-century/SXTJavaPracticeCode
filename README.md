@@ -75,10 +75,19 @@
         > lesson163     Collections工具类
         > lesson164     使用容器存储表格数据
         > lesson165     javabean和list结合存储表格数据
+    - part8     08_IO流技术
+        > lesson171     字符集：编码与解码
+        > lesson173     IO标准步骤
+        > lesson175     文件拷贝
+        > lesson176     文件字符流
+        > lesson177     字节数组流
 </pre>
 
 <h1>版本说明</h1>
 <pre>
+- v1.5.0
+    > 完成：lesson171、lesson173、lesson175、lesson176
+    > 未完成：lesson177
 - v1.4.4
     > 完成part7 07_容器和数据结构
 - v1.4.3
