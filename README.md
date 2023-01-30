@@ -83,10 +83,13 @@
         > lesson177     字节数组流
         > lesson178     对接流：图片读取到字节数组再将字节数组写出到文件
         > lesson179     工具类：封装 try with source
+        > lesson180     装饰器设计模式
 </pre>
 
 <h1>版本说明</h1>
 <pre>
+- v1.5.2
+    > 完成：lesson180
 - v1.5.1
     > 完成：lesson178、lesson179
 - v1.5.0
