@@ -84,10 +84,13 @@
         > lesson178     对接流：图片读取到字节数组再将字节数组写出到文件
         > lesson179     工具类：封装 try with source
         > lesson180     装饰器设计模式
-        
+        > lesson181     字节缓冲流
+        > lesson182     字符缓冲流
 </pre>
 <h1>版本说明</h1>
 <pre>
+- v1.5.3
+    > 完成：lesson181、lesson182
 - v1.5.2
     > 完成：lesson180
 - v1.5.1
