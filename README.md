@@ -86,9 +86,12 @@
         > lesson180     装饰器设计模式
         > lesson181     字节缓冲流
         > lesson182     字符缓冲流
+        > lesson183     转换流
 </pre>
 <h1>版本说明</h1>
 <pre>
+- v1.5.4
+    > 完成：lesson183
 - v1.5.3
     > 完成：lesson181、lesson182
 - v1.5.2
