@@ -12,6 +12,7 @@ package part8.lesson180;
  **/
 public class Test {
     public static void main(String[] args) {
+        // 案例1
         Person person = new Person();
         person.say();
         Amplifier amplifier = new Amplifier(person);
@@ -53,3 +54,4 @@ class Amplifier implements Say {
         System.out.println("I am a person(分贝：" + this.person.getVoice() * 10 + ")");
     }
 }
+
