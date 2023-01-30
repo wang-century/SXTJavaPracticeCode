@@ -80,18 +80,10 @@
         > lesson173     IO标准步骤
         > lesson175     文件拷贝
         > lesson176     文件字符流
-        > lesson177     字节数组流
-        > lesson178     对接流：图片读取到字节数组再将字节数组写出到文件
-        > lesson179     工具类：封装 try with source
 </pre>
 
 <h1>版本说明</h1>
 <pre>
-- v1.5.1
-    > 完成：lesson178、lesson179
-- v1.5.0
-    > 完成：lesson171、lesson173、lesson175、lesson176
-    > 未完成：lesson177
 - v1.4.4
     > 完成part7 07_容器和数据结构
 - v1.4.3
