@@ -87,9 +87,16 @@
         > lesson181     字节缓冲流
         > lesson182     字符缓冲流
         > lesson183     转换流
+        > lesson184     数据流
+        > lesson185     对象流(序列化与反序列化)
+        > lesson186     打印流
+        > lesson187     文件分割(不完整)
+        > lesson190     CommonsIO的使用
 </pre>
 <h1>版本说明</h1>
 <pre>
+- 1.5.5
+    > 完成：lesson184、lesson185、lesson186、lesson187、lesson190
 - v1.5.4
     > 完成：lesson183
 - v1.5.3
