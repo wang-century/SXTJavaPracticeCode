@@ -92,9 +92,20 @@
         > lesson186     打印流
         > lesson187     文件分割(不完整)
         > lesson190     CommonsIO的使用
+    - part9    09_多线程
+        > lesson196     线程的创建
+        > lesson200     了解Callable(可返回结果、抛出异常)
+        > lesson201     静态代理模式
+        > lesson202     lambda简化线程
+        > lesson203     线程状态
+        > lesson204     线程的终止
+        > lesson206     yield从运行状态转入就绪状态，等待CPU重新调度
+        > lesson207     join插队
 </pre>
 <h1>版本说明</h1>
 <pre>
+- 1.6.0
+    > 完成：lesson196、lesson200、lesson201、lesson202、lesson203、lesson204、lesson206、lesson207
 - 1.5.5
     > 完成：lesson184、lesson185、lesson186、lesson187、lesson190
 - v1.5.4
