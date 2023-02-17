@@ -101,9 +101,14 @@
         > lesson204     线程的终止
         > lesson206     yield从运行状态转入就绪状态，等待CPU重新调度
         > lesson207     join插队
+        > lesson209     线程优先级
+        > lesson210     守护线程
+        > lesson213     线程同步：队列与锁
 </pre>
 <h1>版本说明</h1>
 <pre>
+- 1.6.1
+    > 完成：lesson209-lesson213
 - 1.6.0
     > 完成：lesson196、lesson200、lesson201、lesson202、lesson203、lesson204、lesson206、lesson207
 - 1.5.5

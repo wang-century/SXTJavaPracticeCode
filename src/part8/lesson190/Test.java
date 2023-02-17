@@ -56,6 +56,5 @@ public class Test {
         // FileUtils.copyURLToFile(new URL("https://commons.apache.org/proper/commons-io/images/commons-logo.png"), new File("src/files/apache.png"));
         // String urlContent = IOUtils.toString(new URL("https://www.baidu.com"), StandardCharsets.UTF_8);
         // System.out.println(urlContent);
-
     }
 }
