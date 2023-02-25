@@ -104,9 +104,13 @@
         > lesson209     线程优先级
         > lesson210     守护线程
         > lesson213     线程同步：队列与锁
+        > lesson214     并发、同步 synchronized
+        > lesson217     案例：快乐影院
 </pre>
 <h1>版本说明</h1>
 <pre>
+- 1.6.2
+    > 完成：lesson214-lesson217未完成
 - 1.6.1
     > 完成：lesson209-lesson213
 - 1.6.0
